@@ -19,6 +19,8 @@
 
 Final-year ECE student at **MIT Manipal** (2026) and a **Product Intern at BetterPlace**. I turn rough ideas into shipped products, fast. On my own I run **Seemara**, a one-person AI products studio. I care about clear thinking, user empathy, and building things people actually use.
 
+🌱 **Currently:** building **Kaizen** at Seemara · prepping for **APM / AI-builder** roles · open to remote and India.
+
 ### 📈 At BetterPlace (Product Intern)
 
 - 🎬 Shipped an interactive video feature for **Meesho** that lifted DAUs by **+11%**
